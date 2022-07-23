@@ -348,6 +348,7 @@ interface IncomingRequestCfPropertiesBotManagement {
   score: number;
   staticResource: boolean;
   verifiedBot: boolean;
+  ja3Hash: string;
 }
 
 interface IncomingRequestCfPropertiesTLSClientAuth {

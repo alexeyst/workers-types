@@ -5756,6 +5756,12 @@
         "type": {
           "name": "boolean"
         }
+      },
+      {
+        "name": "ja3Hash",
+        "type": {
+          "name": "string"
+        }
       }
     ],
     "kind": "struct"
