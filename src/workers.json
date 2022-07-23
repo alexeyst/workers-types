@@ -5762,7 +5762,13 @@
         "type": {
           "name": "string"
         }
-      }
+      },
+      {
+        "name": "corporateProxy",
+        "type": {
+          "name": "boolean"
+        }
+      }      
     ],
     "kind": "struct"
   },

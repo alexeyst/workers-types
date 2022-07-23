@@ -349,6 +349,7 @@ interface IncomingRequestCfPropertiesBotManagement {
   staticResource: boolean;
   verifiedBot: boolean;
   ja3Hash: string;
+  corporateProxy: boolean;
 }
 
 interface IncomingRequestCfPropertiesTLSClientAuth {
